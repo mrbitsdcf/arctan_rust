@@ -10,6 +10,7 @@ How to run
 Supposing we are trying to compute the angular diameter for the Sun, we need some data: 
 
 Radius of the Sun = 696,340 km
+
 Distance from the Earth = 150,000,000 km
 
 We also know that diameter = 2 * radius, but the code will take care about this.
