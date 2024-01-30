@@ -36,9 +36,9 @@ fn main() {
     let builtin_atan: f64 = angle.atan();
 
     // Exibe o resultado
-    println!("Resultado usando método 1:  {}", result);
-    println!("Resultado usando método 2:  {}", arc);
-    println!("Resultado com ATAN builtin: {}", builtin_atan.to_degrees());
+    println!("Results using method 1:     {}", result);
+    println!("Results using method 2:     {}", arc);
+    println!("Results using builtin ATAN: {}", builtin_atan.to_degrees());
 }
 
 // Função para calcular o arco-tangente usando a série de Taylor
